@@ -1,7 +1,7 @@
 # ic-08
 ic-08 - Intro to D3 Part 2
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: `[https://github.com/DS4200-S23-Class/ic-08-08_yudai]`
 
 ## Purpose
 
